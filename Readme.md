@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/taznimhimel" target="blank"><img src="https://img.shields.io/twitter/follow/taznimhimel?logo=twitter&style=for-the-badge" alt="taznimhimel" /></a> </p>
 
-- 🔭 I’m currently working on **C Programming**
+- 🔭 I’m currently working on **Cybersecurity**
 
-- 🌱 I’m currently learning **C,HTML5,CSS3,JAVASCRIPT**
+- 🌱 I’m currently learning **C,C++,PYTHON**
 
-- 💬 Ask me about **c,html,css**
+- 💬 Ask me about **c,c++,python,html,css**
 
-- 📫 How to reach me **minhuztaznim@gmail.com**
+- 📫 How to reach me **himel.ict.iu@hotmail.com**
 
 - ⚡ Fun fact **I don't have any knowledge**
 
