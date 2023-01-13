@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taznimhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taznimhimel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/minhuz taznim himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhuz taznim himel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/taznimhimel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhuz taznim himel" height="30" width="40" /></a>
 <a href="https://fb.com/tajnimhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tajnimhimel" height="30" width="40" /></a>
 <a href="https://instagram.com/taznimhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taznimhimel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/minhuztaznim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="minhuztaznim" height="30" width="40" /></a>
