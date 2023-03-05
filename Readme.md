@@ -1,6 +1,5 @@
 # 💫 About Me:
-<h2 align="centre"> Hi I am Taznim Himel </h2>
-
+😎Hi! I am Taznim Himel.
 🔭 I’m currently working on My portfolio,Github Projects.<br>👯 I’m looking to collaborate on bug haunting projects.<br>🤝 I’m looking for help with problem solving experts.<br>🌱 I’m currently learning C++.<br>💬 Ask me about Freelancing Opportunities, Open Source,Network Security.<br>⚡ Fun fact : 😑
 
 
