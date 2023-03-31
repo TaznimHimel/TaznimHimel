@@ -9,6 +9,7 @@ Programmer and Web Designer
 * 🚀  I'm currently working on [My portfolio](http://sites.google.com/view/taznimhimel/home)
 * 🧠  I'm learning C++,Python,Java
 * 🤝  I'm open to collaborating on Github
+* https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZiMTc0MDdiOGNiZTY1ODQ5YmU4Mzk2NjZhNTM0MWY2OWE0NjYwOCZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif
 
 <a href="https://www.github.com/TaznimHimel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TaznimHimel?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/TaznimHimel" target="_blank" rel="noreferrer"><img
