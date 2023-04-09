@@ -3,7 +3,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm Minhuz Taznim Himel</h1>
 <h3 align="center">A passionate problem solver from Bangladesh</h3>
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif">
+<div align="center">
+<img src = "https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="200px" width="200px">
+ </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznimhimel&label=Profile%20views&color=0e75b6&style=flat" alt="taznimhimel" /> </p>
 <p align="left"> <a href="https://twitter.com/taznimhimel" target="blank"><img src="https://img.shields.io/twitter/follow/taznimhimel?logo=twitter&style=for-the-badge" alt="taznimhimel" /></a> </p>
 
