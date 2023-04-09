@@ -41,5 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taznimhimel&show_icons=true&locale=en" alt="taznimhimel" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=taznimhimel&" alt="taznimhimel" /></p>
-
+<p> Trophy </p>
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=monokai&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15"><img src="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=monokai&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15" alt="taznimhimel" /></a> </p>
