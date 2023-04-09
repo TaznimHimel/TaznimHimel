@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minhuz Taznim Himel</h1>
 <h3 align="center">A passionate problem solver from Bangladesh</h3>
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznimhimel&label=Profile%20views&color=0e75b6&style=flat" alt="taznimhimel" /> </p>
 <p align="left"> <a href="https://twitter.com/taznimhimel" target="blank"><img src="https://img.shields.io/twitter/follow/taznimhimel?logo=twitter&style=for-the-badge" alt="taznimhimel" /></a> </p>
 
