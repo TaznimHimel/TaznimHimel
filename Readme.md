@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I think I am not funny enough.**
 
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=matrix&no-frame=false&no-bg=false&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=matrix&no-frame=false&no-bg=false&margin-w=4" alt="taznimhimel" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taznimhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taznimhimel" height="30" width="40" /></a>
@@ -42,4 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taznimhimel&" alt="taznimhimel" /></p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=matrix&no-frame=false&no-bg=false&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=matrix&no-frame=false&no-bg=false&margin-w=4" alt="taznimhimel" /></a> </p>
+
