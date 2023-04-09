@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="cover" />
+    </div>
 <h1 align="center">Hi 👋, I'm Minhuz Taznim Himel</h1>
 <h3 align="center">A passionate problem solver from Bangladesh</h3>
 
