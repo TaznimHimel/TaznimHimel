@@ -42,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taznimhimel&" alt="taznimhimel" /></p>
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=matrix&no-frame=false&no-bg=false&margin-w=4"><img src="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=matrix&no-frame=false&no-bg=false&margin-w=4" alt="taznimhimel" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=matrix&no-frame=false&no-bg=false&margin-w=0"><img src="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=matrix&no-frame=false&no-bg=false&margin-w=0" alt="taznimhimel" /></a> </p>
