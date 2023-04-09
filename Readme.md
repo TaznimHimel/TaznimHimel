@@ -2,9 +2,6 @@
 <h3 align="center">A passionate problem solver from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznimhimel&label=Profile%20views&color=0e75b6&style=flat" alt="taznimhimel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taznimhimel" alt="taznimhimel" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/taznimhimel" target="blank"><img src="https://img.shields.io/twitter/follow/taznimhimel?logo=twitter&style=for-the-badge" alt="taznimhimel" /></a> </p>
 
 - 🔭 I’m currently working on **my personal portfolio.**
@@ -44,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taznimhimel&show_icons=true&locale=en" alt="taznimhimel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taznimhimel&" alt="taznimhimel" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taznimhimel" alt="taznimhimel" /></a> </p>
