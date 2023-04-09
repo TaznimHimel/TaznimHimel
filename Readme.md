@@ -50,9 +50,4 @@
     
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taznimhimel&" alt="taznimhimel" /></p>
     
-    <div>
-        <h1> Trophies </h1>
     <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=monokai&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15"><img src="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=monokai&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15" alt="taznimhimel" /></a> </p>
-    </div>
-    
-    
