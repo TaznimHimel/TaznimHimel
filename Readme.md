@@ -53,4 +53,10 @@
         <img src="https://github-profile-trophy.vercel.app/?username=taznimhimel&theme=monokai&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15" alt="taznimhimel">
         </a> 
     </div>
-    ![Snake animation](https://github.com/{{TaznimHimel}}/{{TaznimHimel}}/blob/output/github-contribution-grid-snake.svg)
+   ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/taznimhimel/taznimhimel/blob/output/snake.svg" alt="Snake animation" />
+
+###
