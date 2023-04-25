@@ -32,7 +32,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TaznimHimel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### HeWhoMustNotBeNamed
+### 💀 HeWhoMustNotBeNamed
 
 <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Snake animation" />
 
