@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src=".github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Snake animation" />
 
 ###
