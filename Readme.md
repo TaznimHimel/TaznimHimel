@@ -28,6 +28,23 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### Coding Journey 🚀
+
+#### This Week:
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   4 hrs 7 mins    █████████████████████▓░░░   86.64 %
+JSON         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+JavaScript   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
+<!--END_SECTION:waka-->
+
+
+#### 🕒 Total Coding Hours: 
+[![wakatime](https://wakatime.com/badge/user/018c6c11-80c2-48df-9a30-fa8ecf0ac192.svg)](https://wakatime.com/@018c6c11-80c2-48df-9a30-fa8ecf0ac192)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TaznimHimel&limit=5&theme=dark&combine_all_yearly_contributions=true)
