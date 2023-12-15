@@ -28,12 +28,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-### Coding Journey 🚀
-
-#### This Week:
-
-#### 🕒 Total Coding Hours: 
-[![wakatime](https://wakatime.com/badge/user/b5c1e4cb-6686-4c16-8641-403b96dc1413.svg)](https://wakatime.com/b5c1e4cb-6686-4c16-8641-403b96dc1413)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TaznimHimel&limit=5&theme=dark&combine_all_yearly_contributions=true)
