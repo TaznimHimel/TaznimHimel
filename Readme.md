@@ -34,6 +34,10 @@
 
 ### Coding Journey 🚀
 #### This Week:
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 #### 🕒 Total Coding Hours: 
 [![wakatime](https://wakatime.com/badge/user/018c6c11-80c2-48df-9a30-fa8ecf0ac192.svg)](https://wakatime.com/@018c6c11-80c2-48df-9a30-fa8ecf0ac192)
