@@ -36,6 +36,12 @@
 #### This Week:
 <!--START_SECTION:waka-->
 
+```txt
+HTML     4 hrs 37 mins   ████████████████████▓░░░░   82.97 %
+Python   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+CSS      24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+```
+
 <!--END_SECTION:waka-->
 
 
