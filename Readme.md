@@ -12,7 +12,6 @@
 # 💫 About Me:
  🔭 I’m currently working on my personal portfolio.<br><br>🌱 I’m currently learning C++ , Python and Javascript .<br><br>👯 I’m looking to collaborate on Github , Open Source , Projects.<br><br>👨‍💻 All of my projects are available at Github .<br><br>📝 I regularly write articles on Facebook .<br><br>💬 Ask me about Photography , Problem Solving & Security Topics.<br><br>📫 How to reach me himel.ict.iu@hotmail.com<br><br>⚡ Fun fact I think I am not funny enough.
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TajnimHimel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taznimhimel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TaznimHimel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TaznimHimel) 
 
@@ -35,15 +34,12 @@
 ### Coding Journey 🚀
 #### This Week:
 <!--START_SECTION:waka-->
-
 ```txt
 HTML     4 hrs 37 mins   ████████████████████▓░░░░   82.97 %
 Python   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
 CSS      24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 ```
-
 <!--END_SECTION:waka-->
-
 
 #### 🕒 Total Coding Hours: 
 [![wakatime](https://wakatime.com/badge/user/018c6c11-80c2-48df-9a30-fa8ecf0ac192.svg)](https://wakatime.com/@018c6c11-80c2-48df-9a30-fa8ecf0ac192)
