@@ -26,10 +26,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TaznimHimel&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+## TryHackMe Stats:
+<img src="https://raw.githubusercontent.com/TaznimHimel/TaznimHimel/master/assets/TheJellyfish.png" alt="TryHackMe Badge">
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-### Coding Journey 🚀
 
+### Coding Journey 🚀
 #### This Week:
 
 #### 🕒 Total Coding Hours: 
@@ -39,7 +42,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=TaznimHimel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 💀 HeWhoMustNotBeNamed
-
 <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Snake animation" /> 
-![tryhackme stats]
-<img src="https://raw.githubusercontent.com/TaznimHimel/TaznimHimel/master/assets/TheJellyfish.png" alt="TryHackMe Badge">
+
