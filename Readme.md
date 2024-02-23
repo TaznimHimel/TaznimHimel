@@ -41,8 +41,4 @@
 ### 💀 HeWhoMustNotBeNamed
 
 <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Snake animation" /> 
-
-## TryHackMe Badge:
-<script src="https://tryhackme.com/badge/1204739"></script>
-
 ###
