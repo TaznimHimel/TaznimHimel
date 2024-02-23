@@ -41,4 +41,5 @@
 ### 💀 HeWhoMustNotBeNamed
 
 <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Snake animation" /> 
-![tryhackme stats](https://raw.githubusercontent.com/<TheJellyfish>/<TheJellyfish>/master/assets/TheJellyfish.png)
+![tryhackme stats]
+<img src="https://raw.githubusercontent.com/<TheJellyfish>/<TheJellyfish>/master/assets/TheJellyfish.png" alt="TryHackMe Badge">
