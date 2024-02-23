@@ -42,4 +42,4 @@
 
 <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Snake animation" /> 
 ![tryhackme stats]
-<img src="https://raw.githubusercontent.com/<TaznimHimel>/<TaznimHimel>/master/assets/TheJellyfish.png" alt="TryHackMe Badge">
+<img src="https://raw.githubusercontent.com/TaznimHimel/TaznimHimel/master/assets/TheJellyfish.png" alt="TryHackMe Badge">
