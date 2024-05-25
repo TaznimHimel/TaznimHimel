@@ -36,9 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       0 secs          █████████████████▒░░░░░░░   69.89 %
-HTML         0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
-JavaScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
