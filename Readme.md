@@ -25,18 +25,22 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TaznimHimel&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ### Coding Journey 🚀
 #### This Week:
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
-```
+<!--END_SECTION:waka-->
+## 📊 Weekly Development Breakdown 
+<!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
 
+**I'm a Night 🦉** 
+
+📅 **I'm Could be Most Productive on Anyday** 
+
+📊 **This Week I Spent My Time On** 
+
+**I Mostly Code in C++** 
 <!--END_SECTION:waka-->
 
 #### 🕒 Total Coding Hours: 
@@ -47,4 +51,3 @@ No activity tracked
 
 ### 💀 HeWhoMustNotBeNamed
 <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Snake animation" /> 
-
