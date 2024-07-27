@@ -28,10 +28,8 @@
 ### Coding Journey 🚀
 #### This Week:
 <!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 ## 📊 Weekly Development Breakdown 
-<!--START_SECTION:waka-->
+
 **🐱 My GitHub Data** 
 
 **I'm a Night 🦉** 
