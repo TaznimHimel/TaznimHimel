@@ -26,7 +26,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=TaznimHimel&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ## TryHackMe Stats:
-<img src="https://raw.githubusercontent.com/TaznimHimel/TaznimHimel/master/assets/TheJellyfish.png" alt="TryHackMe Badge">
+![tryhackme stats](https://raw.githubusercontent.com/<TheJellyfish>/<TheJellyfish>/master/assets/thm_propic.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
