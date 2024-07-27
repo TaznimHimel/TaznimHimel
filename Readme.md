@@ -25,21 +25,20 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TaznimHimel&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+## TryHackMe Stats:
+<img src="https://raw.githubusercontent.com/TaznimHimel/TaznimHimel/master/assets/TheJellyfish.png" alt="TryHackMe Badge">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 ### Coding Journey 🚀
 #### This Week:
 <!--START_SECTION:waka-->
 
-## 📊 Weekly Development Breakdown 
+```txt
+No activity tracked
+```
 
-**🐱 My GitHub Data** 
-
-**I'm a Night 🦉** 
-
-📅 **I'm Could be Most Productive on Anyday** 
-
-📊 **This Week I Spent My Time On** 
-
-**I Mostly Code in C++** 
 <!--END_SECTION:waka-->
 
 #### 🕒 Total Coding Hours: 
