@@ -13,14 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
-          
-          image_path: './assets/thm_propic.png'
           # Replace with your tryhackme username
           username: "TheJellyfish"
-          user_id: "https://tryhackme.com/p/TheJellyfish"
-          committer_username: "TaznimHimel"
-          committer_email: "minhuztaznim@gmail.com"
-          commit_message: "Updated THM profile badge"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Do not paste your github token here - this is a placeholder
                                                   # and will pull your github token automatically
-        
