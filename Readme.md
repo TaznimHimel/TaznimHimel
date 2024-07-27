@@ -26,7 +26,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=TaznimHimel&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ## TryHackMe Stats:
-![tryhackme stats](https://raw.githubusercontent.com/<TheJellyfish>/<TheJellyfish>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/<TheJellyfish>/<TheJellyfish>/master/assets/tryhackme.js)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
