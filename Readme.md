@@ -7,7 +7,7 @@
     <img src = "https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" height="200px" width="200px">
     </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taznimhimel&label=Profile%20views&color=0e75b6&style=flat" alt="taznimhimel" /> </p>
-<p align="left"> <a href="https://twitter.com/taznimhimel" target="blank"><img src="https://img.shields.io/twitter/follow/taznimhimel?logo=twitter&style=for-the-badge" alt="taznimhimel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/taznimhimel" target="blank"><img src="https://img.shields.io/twitter/follow/taznimhimel?logo=twitter&style=for-the-badge" alt="taznimhimel"></a> </p>
 
 # 💫 About Me:
  🔭 I’m currently working on my personal portfolio.<br><br>🌱 I’m currently learning C++ , Python and Javascript .<br><br>👯 I’m looking to collaborate on Github , Open Source , Projects.<br><br>👨‍💻 All of my projects are available at Github .<br><br>📝 I regularly write articles on Facebook .<br><br>💬 Ask me about Photography , Problem Solving & Security Topics.<br><br>📫 How to reach me himel.ict.iu@hotmail.com<br><br>⚡ Fun fact I think I am not funny enough.
