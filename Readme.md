@@ -34,9 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++        51 mins         ██████████████████████▓░░   91.10 %
-Markdown   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
