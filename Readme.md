@@ -34,11 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs                 ████████████████████████░   96.45 %
-TypeScript   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python   2 hrs 5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
